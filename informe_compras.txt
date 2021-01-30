@@ -1,1 +1,2 @@
 vasos ->1000
+ventana --> 9000
